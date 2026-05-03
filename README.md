@@ -1,33 +1,44 @@
-# Healthease Demo
+# HealthEase - Smart Healthcare Landing Page
 
 ## Project Overview
-Healthease Demo is a prototype healthcare application created as part of academic learning.
-The project focuses on demonstrating basic user interface flow and healthcare-related
-application concepts.
+HealthEase is a responsive healthcare landing page developed as part of an internship assessment project.
+
+The project focuses on creating a modern and visually appealing user interface for a healthcare platform using frontend web technologies.
 
 ## Objectives
-- Explore healthcare application UI design
-- Understand basic application navigation
-- Learn how healthcare information can be presented digitally
-
-## Technologies Used
-- HTML
-- CSS
-- JavaScript (basic)
-
-## Project Type
-Academic Demo / Prototype
+- Build a responsive landing page
+- Practice modern UI/UX design concepts
+- Implement animations and interactive elements
+- Improve frontend development skills
 
 ## Features
-- Basic healthcare-themed UI
-- Simple navigation between pages
-- Informational content display
+- Responsive navigation bar
+- Hero section with call-to-action buttons
+- Services section
+- Features and statistics section
+- About section
+- Interactive animations and hover effects
+- Smooth scrolling navigation
 
-## Disclaimer
-This is a demo project created for academic purposes only.
-It is not a real healthcare system and does not handle real medical data.
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+
+## Project Type
+Internship Assessment / Frontend Development Project
+
+## How to Run
+1. Download or clone the repository
+2. Open `index.html` in any web browser
+
+## Learning Outcomes
+- Improved understanding of webpage structure
+- Better knowledge of responsive design
+- Hands-on experience with animations and UI design
+- Practical understanding of frontend development
 
 ## Academic Note
-The project was developed using AI-assisted code and
-open-source references to understand application structure
-and UI design concepts.
+This project was developed for learning and assessment purposes.
+AI tools and online references were used to understand design concepts,
+frontend implementation, and project structure.
